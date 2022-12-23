@@ -1,0 +1,28 @@
+{
+"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"Roboto-Black": {
+		"file": "Roboto-Black.fnt"
+	}
+},
+"com.badlogic.gdx.graphics.Color": {
+	"RGBA_0_0_0_255": {
+		"r": 0,
+		"g": 0,
+		"b": 0,
+		"a": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+	"default": {
+		"up": "button-normal",
+		"over": "button-hover"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+	"default": {
+		"font": "Roboto-Black",
+		"up": "button-normal",
+		"over": "button-hover"
+	}
+}
+}

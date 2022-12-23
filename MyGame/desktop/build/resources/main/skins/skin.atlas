@@ -1,0 +1,20 @@
+
+skin.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+health_back
+  rotate: false
+  xy: 1, 406
+  size: 472, 65
+  orig: 472, 65
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 1, 385
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
